@@ -1,4 +1,5 @@
 Como executar o Projeto.
+
 Antes de tudo precisa ter instalado o React, Node.js e Visual Studio Code
 
 1. Instalar Node.js 
@@ -30,7 +31,7 @@ Atenção no lugar do my-app colocar o nome do seu projeto
 
 2 Abrir Pasta e selecionar a pasta do projeto criado e seu novo projeto esta ok
 
-5. Baixar o Projeto no GitHub 
+5. Baixar o Projeto no GitHub https://github.com/EvertonCarv/Projeto-web-SQuadConnect
  
 6. Descompactar o Projeto
 
