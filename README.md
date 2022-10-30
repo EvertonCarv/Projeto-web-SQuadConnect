@@ -37,7 +37,7 @@ Atenção no lugar do my-app colocar o nome do seu projeto
 
 7. No Projeto Novo que foi criado tem uma pasta chamada 
 
-'node_modules' copie esta pasta para dentro do projeto baixado no GitHub
+'node_modules' Copie esta pasta para dentro do projeto baixado no GitHub
 
 8. Siga o passo 4 porém agora você deve abrir o Projeto baixado do GitHub
 
