@@ -19,41 +19,41 @@ https://nodejs.org/en/
 
 Para saber a versão do node instalado
 
-'node -v'
+<b>'node -v'</b>
 
 Para saber a versão do Npm
 
-'npm -v'
+<b>'npm -v'</b>
 
-2. Abra o Terminal e insira os seguintes comandos para instalar o React-Bootstrap e React Dom
+<b>2.</b> Abra o Terminal e insira os seguintes comandos para instalar o React-Bootstrap e React Dom
 
 'npm install react-bootstrap bootstrap'
 
 'npm install react-router-dom@6'
 
-3. Criar o Projeto ainda usando o Terminal
+<b>3.</b> Criar o Projeto ainda usando o Terminal
 
 'npx create-react-app my-app' 
 
 Atenção no lugar do my-app colocar o nome do seu projeto
 
-4. Abra o Visual Studio Code 
+<b>4.</b> Abra o Visual Studio Code 
 
-1 Arquivo
+<b>4.1</b> Arquivo
 
-2 Abrir Pasta e selecionar a pasta do projeto criado e seu novo projeto esta ok
+<b>4.2</b> Abrir Pasta e selecionar a pasta do projeto criado e seu novo projeto esta ok
 
-5. Baixar o Projeto no GitHub https://github.com/EvertonCarv/Projeto-web-SQuadConnect
+<b>5.</b> Baixar o Projeto no GitHub https://github.com/EvertonCarv/Projeto-web-SQuadConnect
  
-6. Descompactar o Projeto
+<b>6.</b> Descompactar o Projeto
 
-7. No Projeto Novo que foi criado tem uma pasta chamada 
+<b>7.</b> No Projeto Novo que foi criado tem uma pasta chamada 
 
-'node_modules' Copie esta pasta para dentro do projeto baixado no GitHub
+<b>'node_modules'</b> Copie esta pasta para dentro do projeto baixado no GitHub
 
-8. Siga o passo 4 porém agora você deve abrir o Projeto baixado do GitHub
+<b>8.</b> Siga o passo 4 porém agora você deve abrir o Projeto baixado do GitHub
 
-9. No VSC va na aba terminal e em novo terminal digitando o comando abaixo você deve dar start no projeto 
+<b>9.</b> No VSC va na aba terminal e em novo terminal digitando o comando abaixo você deve dar start no projeto 
 'npm start'
 
 
