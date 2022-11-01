@@ -27,13 +27,13 @@ Para saber a versão do Npm
 
 <b>2.</b> Abra o Terminal e insira os seguintes comandos para instalar o React-Bootstrap e React Dom
 
-'npm install react-bootstrap bootstrap'
+<b>'npm install react-bootstrap bootstrap'</b>
 
-'npm install react-router-dom@6'
+<b>'npm install react-router-dom@6'</b>
 
 <b>3.</b> Criar o Projeto ainda usando o Terminal
 
-'npx create-react-app my-app' 
+<b>'npx create-react-app my-app' </b>
 
 Atenção no lugar do my-app colocar o nome do seu projeto
 
