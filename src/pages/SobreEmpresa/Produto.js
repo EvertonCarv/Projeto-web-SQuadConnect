@@ -15,17 +15,7 @@ const   Produto = props =>{
         <div class="carrossel__container">
             <div class="swiper">
 
-                <div class="swiper-pagination"></div>
-
-                        <div class="swiper-wrapper">
-
-                            <div class="swiper-slide"><img src="img/Imagem1.jpg" alt="Livro sobre apache kafka e spring boot da alura nooks"/></div>
-                            <div class="swiper-slide"><img src="img/imagem2.svg" alt="Livro sobre liderança em design da alura books"/></div>
-                            <div class="swiper-slide"><img src="img/imagem3.svg" alt="Livro sobre javascript assertivo da alura books"/></div>
-                            <div class="swiper-slide"><img src="img/imagem4.svg" alt="Livro Guia front end"/></div>
-                        
-                        ...
-                        </div>
+                <div class="swiper-pagination"></div>                        
                       
                     <div class="swiper-button-prev"></div>
                     <div class="swiper-button-next"></div>          
