@@ -54,7 +54,8 @@ Atenção no lugar do my-app colocar o nome do seu projeto
 <b>8.</b> Siga o passo 4 porém agora você deve abrir o Projeto baixado do GitHub
 
 <b>9.</b> No VSC va na aba terminal e em novo terminal digitando o comando abaixo você deve dar start no projeto 
-'npm start'
+
+<b>'npm start'</b>
 
 
 
