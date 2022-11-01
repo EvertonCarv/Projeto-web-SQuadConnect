@@ -10,7 +10,7 @@ a solução desse problema, seria tentar fazer um aplicativo leve com poucos vis
 mas focado no rendimento, pois a pessoa que instalar esse programa vai querer a praticidade 
 e o conforto de olhar as mãozinhas.</P>
 
-Como executar o Projeto.
+<h2>Como executar o Projeto.</h2>
 
 Antes de tudo precisa ter instalado o React, Node.js e Visual Studio Code
 
