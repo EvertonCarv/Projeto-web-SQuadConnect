@@ -39,9 +39,9 @@ Atenção no lugar do my-app colocar o nome do seu projeto
 
 <b>4.</b> Abra o Visual Studio Code 
 
-<b>4.1</b> Arquivo
+<b>4.1.</b> Arquivo
 
-<b>4.2</b> Abrir Pasta e selecionar a pasta do projeto criado e seu novo projeto esta ok
+<b>4.2.</b> Abrir Pasta e selecionar a pasta do projeto criado e seu novo projeto esta ok
 
 <b>5.</b> Baixar o Projeto no GitHub https://github.com/EvertonCarv/Projeto-web-SQuadConnect
  
