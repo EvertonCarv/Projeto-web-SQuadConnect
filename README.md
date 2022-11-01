@@ -12,9 +12,9 @@ e o conforto de olhar as mãozinhas.</P>
 
 <h2>Como executar o Projeto.</h2>
 
-Antes de tudo precisa ter instalado o React, Node.js e Visual Studio Code
+<b>Antes de tudo precisa ter instalado o React, Node.js e Visual Studio Code</b>
 
-1. Instalar Node.js 
+<b>1.</b> Instalar Node.js 
 https://nodejs.org/en/ 
 
 Para saber a versão do node instalado
