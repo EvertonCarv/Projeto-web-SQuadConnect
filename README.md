@@ -62,7 +62,7 @@ Atenção no lugar do my-app colocar o nome do seu projeto
 
 
 
-Integrantes:
+<h3>Integrantes:</h3>
 
 Everton de Carvalho 202108461733
 
