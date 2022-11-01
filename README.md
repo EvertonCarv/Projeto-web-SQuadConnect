@@ -1,3 +1,15 @@
+
+<h1>Nosso Projeto</h1>
+
+<p>O projeto consiste em um aplicativo para todas as plataformas, 
+cuja função do mesmo serviria para ajudar pessoas com deficiência auditiva. 
+O programa irá fazer uma tradução de vídeos do youtube, streams, 
+para libras mostrando em simultâneo uma mãozinha no canto da tela. 
+Um sério problema seria  que o aplicativo fosse pesado, travado nos PCs do usuário que, 
+a solução desse problema, seria tentar fazer um aplicativo leve com poucos visuais, 
+mas focado no rendimento, pois a pessoa que instalar esse programa vai querer a praticidade 
+e o conforto de olhar as mãozinhas.</P>
+
 Como executar o Projeto.
 
 Antes de tudo precisa ter instalado o React, Node.js e Visual Studio Code
